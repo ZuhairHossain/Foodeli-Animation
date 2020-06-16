@@ -1,5 +1,5 @@
 # Animation Project: Foodely Promo 
-The Animation is made for the promo use of Foodely, which is a food delivery marketplace available in Sherpur, Bangladesh. 
+The Animation is made for the promo use of Foodeli, which is a food delivery marketplace available in Sherpur, Bangladesh. 
 The service allows users to select from local restaurants and place orders via its websites.
 
 # Members:
